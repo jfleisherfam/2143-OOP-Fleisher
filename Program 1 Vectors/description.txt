@@ -2,7 +2,7 @@
 ### Jayden Fleisher
 ### Description:
 
-This program implements a list data structure that links together nodes of integers. It does more stuff, but we don't need to write that here.
+This program is to create a linked list based Vector class that will include the functionality listed below. You will achieve this by writing additional methods to add values, remove values, and maintain sorted values if needed. This class also needs the ability to be initialized with different data sources (files, other vectors, and arrays).
 
 ### Files
 
@@ -13,8 +13,4 @@ This program implements a list data structure that links together nodes of integ
 
 ### Instructions
 
-- This program does not require any non standard libraries
-
-### Example Command
-
-- None for now.
+- T
